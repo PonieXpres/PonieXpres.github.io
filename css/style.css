@@ -40,9 +40,9 @@ li a:hover{
   background-color: grey;
 }
 .active {
-  background-color: lightblue;
+  background-color: lightgreen;
   color: black;
 }
 .active:hover {
-  background-color: lightgreen;
+  background-color: lightblue;
 }
