@@ -21,7 +21,7 @@ ul {
   margin: auto;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: lightgrey;
 }
 li {
   display: inline-block;
