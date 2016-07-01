@@ -9,6 +9,7 @@
 .mypic {
   width: 200px;
   height: 200px;
+  <img id="image_canv" src="/image.png" class="rotate90">
 }
 .entry {
   float: right;
